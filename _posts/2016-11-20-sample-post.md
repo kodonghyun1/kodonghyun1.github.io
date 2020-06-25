@@ -18,7 +18,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 #### 1학년
 
-##### 
+##### 고동현
 
 
 ### Body text
