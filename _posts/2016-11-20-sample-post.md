@@ -24,7 +24,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ### 고양이사진
 
-![고양이](./images/images/14_be_cool212.jpg)
+![고양이](./images/%BB%E7%C1%F8_092.jpg)
 
 
 
