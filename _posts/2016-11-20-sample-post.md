@@ -10,17 +10,17 @@ date-string: NOVEMBER 20, 2016
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-# Heading 1
+# 나만의 블로그 만들기
 
-## Heading 2
+## 경일대학교 
 
-### Heading 3
+### 사이버보안학과
 
-#### Heading 4
+#### 20학번
 
-##### Heading 5
+##### 고동현
 
-###### Heading 6
+###### 1학기 
 
 ### Body text
 
