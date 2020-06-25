@@ -1,7 +1,7 @@
 title:            Slate+Simple Jekyll Theme
-description:      Your site description...
-copyright:        Your Name
-url: # add your custom site url (format: https://example.com)
+description:      오픈소프트웨어 실습 블로그 만들기
+copyright:        Ko Dong Hyun
+url: https://kodonghyun1.github.io/
 
 
 future:      false  # publish future dated posts --  true, false (default)
